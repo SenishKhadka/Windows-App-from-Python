@@ -1,1 +1,2 @@
-You can directly run Oh Yes Application without the need of any additional source files like logo.png and moan.wav
+You can directly run Oh Yes Application.
+I was just tinkering with tkinter
